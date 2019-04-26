@@ -1,3 +1,4 @@
+Ruby版的和平与战争游戏
 The book "The Evolution Of Cooperation":http://en.wikipedia.org/wiki/The_Evolution_of_Cooperation (by Robert Axelrod) was a great work. You should definitely "check it out":http://www.amazon.com/Evolution-Cooperation-Robert-Axelrod/dp/0465021212 . (And here is a "Chinese version":http://book.douban.com/subject/2259198/ )
 
 However, the software emulating its system was "implemented with Fortran":http://www.cscs.umich.edu/Software/CC/ECHome.html , and hardly readable. I want to rebuild it with "Ruby":http://www.ruby-lang.org and make it more readable, probably make it an online system and invite people all over the world to contribute their strategies. 
